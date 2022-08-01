@@ -14,7 +14,7 @@ function App() {
   const itemNodes = items.map( (item, index) => {
     return (
       <li>
-        { item.name }
+        { item.name  }
       </li>
     )
   });
